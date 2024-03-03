@@ -1,1 +1,2 @@
-# Kovacs_Karla-Elena_ActivitateSD2024
+# Kovacs Karla-Elena ActivitateSD2024
+This is for my Data Structures course in university.
