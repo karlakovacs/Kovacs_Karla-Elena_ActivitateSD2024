@@ -1,0 +1,17 @@
+Considerati codul de la task-ul precedent.
+
+Creati in functia main un vector alocat dinamic cu cel putin 5 obiecte de tipul structurii voastre.
+
+Realizati o functie care va creea un nou vector în care va copia dintr-un vector primit ca parametru obiectele care indeplinesc o anumita conditie. Stabiliti voi conditia in functie de un atribut sau doua atribute.
+
+Realizati o functie care muta intr-un nou vector obiectele care indeplinesc o alta conditie fata de cerinta precedenta.
+
+Realizati o functie care concateneaza doi vectori.
+
+ 
+
+Realizati o functie care afiseaza un vector cu obiecte.
+
+ 
+
+Apelati toate aceste functii in main().
