@@ -1,0 +1,11 @@
+Considerati codul de la task-ul precedent.
+
+Creati un fisier in care sa aveti minim 10 obiecte de tipul structurii create. Asezarea in fisier a elementelor o faceti la libera alegere.
+
+Scrieti intr-un program C functia care sa citeasca obiectele din fisier si sa le salveze intr-un vector.
+
+Creati o functie care sa copieze (deep copy) elementele din vector intr-o matrice alocată dinamic. Asezarea in matrice pe linii a obiectelor o faceti dupa un criteriu aplicat unui atribut. Astfel veti obține mai multe clustere reprezentate de liniile matricei.
+
+Scrieti o functie care muta liniile din matrice, astfel incat acestea sa fie sortate dupa numarul de elemente de pe linie.
+
+Scrieti o functie care sa afiseze elementele dintr-o matrice.
