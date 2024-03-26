@@ -112,4 +112,6 @@ int main() {
 
 	stergereLista(&lista);
 	afiseazaLista(lista);
+
+	return 0;
 }
